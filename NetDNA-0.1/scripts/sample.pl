@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 
 #NetDNA API Sample Code - Perl
-#Version 0.1
+#Version 1.1a
 
 use NetDNA;
 
