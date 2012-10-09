@@ -19,10 +19,15 @@
 ##Install from Make File
 
 `wget https://github.com/bastosmichael/netdnarws-perl/tarball/master`
-`tar -zxvf master.tar.gz`
-`cd master`
+
+`tar -zxvf master`
+
+`cd bastosmichael-netdnarws-perl-*/`
+
 `perl Build.PL`
+
 `sudo ./Build`
+
 `sudo ./Build install`
 
 ## Installation of Standalone NetDNA.pm
@@ -30,7 +35,7 @@
 
 `unzip master`
 
-`cd netdna-netdnarws-perl-b05c6b7/lib/`
+`cd bastosmichael-netdnarws-perl-*/lib/`
 
 ## Usage
 ```perl
